@@ -1,5 +1,5 @@
 # Flappy Bird Game
-This is basic clone of the famous Flappy Bird game. Created using P5.js
+This is clone of the famous Flappy Bird game. Created using P5.js
 
 ![](./flappy-bird.gif)
 
